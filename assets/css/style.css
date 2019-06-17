@@ -1,0 +1,17 @@
+.header-bg {
+    background: url("../images/home-header-bg.png") no-repeat center;
+    background-size: cover;
+}
+
+.slogan {
+    height: 600px;
+}
+
+.navbar-bg {
+    background: url("../images/nav-bg.png") repeat-y center;
+    /* background-size: cover; */
+}
+
+.copyrite {
+    border-top: 1px solid #d4d5d6;
+}
